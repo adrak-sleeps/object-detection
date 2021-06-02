@@ -1,0 +1,26 @@
+<annotation>
+	<folder>duck test</folder>
+	<filename>out6.jpg</filename>
+	<path>C:\Users\91993\Downloads\duck test\out6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>duck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>265</ymin>
+			<xmax>446</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>
