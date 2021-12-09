@@ -1,6 +1,6 @@
 # object-detection
 
-This object detection project take input images and tries to identify the objects present in them.
+This object detection project takes input images and tries to identify the objects present in them. This particular model has been trained for ducky images.
 
 To execute this project, make sure your directory inside tensorflow-gpu is:
 training_demo/
