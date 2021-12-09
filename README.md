@@ -1,5 +1,7 @@
 # object-detection
 
+This object detection project take input images and tries to identify the objects present in them.
+
 To execute this project, make sure your directory inside tensorflow-gpu is:
 training_demo/
 -annotations/
@@ -9,4 +11,5 @@ training_demo/
  -train/
 -models/
 -pre-trained-models/
+
 Two of the folders have to be created manually, and are not provided above, that are the pre-trained-models and exported-models folders.
